@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "7e7d7366-d442-499a-8c68-8400d507fe12")
 	(paper "A4")
+	(title_block
+		(title "Convertidor de digital a fibra óptica")
+		(date "2026-02-09")
+		(rev "v.1")
+		(company "LabCES-Universidad de Costa Rica")
+	)
 	(lib_symbols
 		(symbol "BAS85_GS08:BAS85-GS08"
 			(pin_names
