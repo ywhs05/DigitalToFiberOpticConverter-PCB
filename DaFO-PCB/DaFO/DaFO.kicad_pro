@@ -58,16 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|190255200|45826502|81274ff1-3f21-43c8-a049-98a0fc7ecbc5|8db795d1-49ea-4e68-81e3-1d20a85ca201",
-          "Se ensambla a mano, no habrá problema"
-        ],
-        [
-          "courtyards_overlap|190330452|59056683|8db795d1-49ea-4e68-81e3-1d20a85ca201|fdc91b57-5b00-4626-b0ba-5b659a0eea6b",
-          "Se ensambla a mano, no habrá problema"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
