@@ -124,7 +124,7 @@
       "rules": {
         "max_error": 0.005,
         "min_clearance": 0.2,
-        "min_connection": 0.0,
+        "min_connection": 0.127,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
@@ -132,8 +132,8 @@
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
-        "min_silk_clearance": 0.0,
-        "min_text_height": 0.5,
+        "min_silk_clearance": 0.15,
+        "min_text_height": 1.0,
         "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
@@ -560,10 +560,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Fabrication Files/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Documentos/Preguntas/20 de mayo de 2026 - DaFO cotización/DaFO - v final de momento - cambio.stl",
       "svg": "",
       "vrml": ""
     },
@@ -686,6 +686,30 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "VERIFIER",
+          "name": "VERIFIER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "CREATOR",
+          "name": "CREATOR",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
           "show": false
         }
       ],

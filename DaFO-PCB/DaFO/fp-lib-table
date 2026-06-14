@@ -15,4 +15,8 @@
   (lib (name "INV_SN74AHC1G14DBVR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/INV_SN74AHC1G14DBVR.pretty")(options "")(descr ""))
   (lib (name "CON_PC_1935776")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CON_PC_1935776.pretty")(options "")(descr ""))
   (lib (name "CON_1862042")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CON_1862042.pretty")(options "")(descr ""))
+  (lib (name "CON_TBLH10_350_02BK")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CON_TBLH10_350_02BK.pretty")(options "")(descr ""))
+  (lib (name "SWITCH_OS102011MA1QN1")(type "KiCad")(uri "${KIPRJMOD}/Footprints/SWITCH_OS102011MA1QN1.pretty")(options "")(descr ""))
+  (lib (name "TRIM_3214J")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TRIM_3214J.pretty")(options "")(descr ""))
+  (lib (name "logo_gato")(type "KiCad")(uri "${KIPRJMOD}/Footprints/logo_gato.pretty")(options "")(descr ""))
 )

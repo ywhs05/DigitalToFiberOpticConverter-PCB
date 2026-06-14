@@ -12,4 +12,7 @@
   (lib (name "SN74AHC1G00DBVR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SN74AHC1G00DBVR.kicad_sym")(options "")(descr ""))
   (lib (name "SN74LVC1G17DBVR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SN74LVC1G17DBVR.kicad_sym")(options "")(descr ""))
   (lib (name "CON_1862042")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CON_1862042.kicad_sym")(options "")(descr ""))
+  (lib (name "CON_TBLH10-350-02BK")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CON_TBLH10-350-02BK.kicad_sym")(options "")(descr ""))
+  (lib (name "SWITCH_OS102011MA1QN1")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SWITCH_OS102011MA1QN1.kicad_sym")(options "")(descr ""))
+  (lib (name "TRIM_3214J-1-203E")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TRIM_3214J-1-203E.kicad_sym")(options "")(descr ""))
 )
