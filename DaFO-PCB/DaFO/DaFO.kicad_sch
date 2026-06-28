@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Convertidor de digital a fibra óptica")
-		(date "2026-05-20")
+		(date "2026-06-14")
 		(rev "v.1")
 		(company "LabCES-Universidad de Costa Rica")
 	)
@@ -6224,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.cuidevices.com/product/resource/tblh10-350.pdf"
 			(at 242.57 144.78 0)
 			(effects
 				(font
@@ -6501,7 +6501,7 @@
 				)
 			)
 		)
-		(property "Value" "TS53YJ203MR10"
+		(property "Value" "TRIM_3214J"
 			(at 187.96 85.09 0)
 			(effects
 				(font
@@ -6519,7 +6519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/doc?51008"
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/3214.pdf"
 			(at 187.96 78.74 0)
 			(effects
 				(font
@@ -6910,7 +6910,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 25.4 166.37 0)
+		(at 68.58 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -6919,7 +6919,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ee2c454-749a-4822-a35c-908609982575")
 		(property "Reference" "H3"
-			(at 27.94 165.0999 0)
+			(at 71.12 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6928,7 +6928,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 27.94 167.6399 0)
+			(at 71.12 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +6937,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 25.4 166.37 0)
+			(at 68.58 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6946,7 +6946,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 166.37 0)
+			(at 68.58 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6955,7 +6955,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 25.4 166.37 0)
+			(at 68.58 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7663,7 +7663,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 25.4 153.67 0)
+		(at 68.58 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -7672,7 +7672,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa48fa4f-39ae-4905-b11e-ecd93f53b7c2")
 		(property "Reference" "H1"
-			(at 27.94 152.3999 0)
+			(at 71.12 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7681,7 +7681,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 27.94 154.9399 0)
+			(at 71.12 139.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7690,7 +7690,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 25.4 153.67 0)
+			(at 68.58 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7699,7 +7699,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 153.67 0)
+			(at 68.58 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7708,7 +7708,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 25.4 153.67 0)
+			(at 68.58 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8056,7 +8056,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 25.4 160.02 0)
+		(at 68.58 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8065,7 +8065,7 @@
 		(fields_autoplaced yes)
 		(uuid "cbcbf9b7-b0c6-47b3-9203-127df75cf9f0")
 		(property "Reference" "H2"
-			(at 27.94 158.7499 0)
+			(at 71.12 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8074,7 +8074,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 27.94 161.2899 0)
+			(at 71.12 146.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8083,7 +8083,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 25.4 160.02 0)
+			(at 68.58 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8092,7 +8092,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 160.02 0)
+			(at 68.58 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8101,7 +8101,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 25.4 160.02 0)
+			(at 68.58 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
